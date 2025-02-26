@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Okres_dietetyk:ciągle do pół roku po operacji'}),frozenset({'Specific_Symptom:ból pleców'}),0.0967741935483871,1.0,3.875

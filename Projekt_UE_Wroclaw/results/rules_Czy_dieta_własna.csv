@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Czy_dieta_własna:nie'}),frozenset({'Specific_Symptom:ból brzucha po lewej stronie'}),0.0967741935483871,0.75,3.875

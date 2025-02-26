@@ -1,0 +1,4 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'dodatkowe_metody:akupunktura'}),frozenset({'Specific_Symptom:ból pleców'}),0.0967741935483871,1.0,3.875
+frozenset({'dodatkowe_metody:terapia masażem'}),frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875
+"frozenset({'dodatkowe_metody:medytacja', 'dodatkowe_metody:akupunktura'})",frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875

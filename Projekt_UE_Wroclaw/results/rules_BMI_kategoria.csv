@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'BMI_kategoria:niedowaga'}),frozenset({'Specific_Symptom:zaparcia'}),0.0967741935483871,0.75,2.90625

@@ -1,0 +1,3 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Okres_dietetyk:ciągle powyżej dwóch lat po operacji'}),frozenset({'Czy_dolegliwosci:tak'}),0.10526315789473684,0.8571428571428571,1.5760368663594468
+frozenset({'Okres_dietetyk:ciągle do jednego roku po operacji'}),frozenset({'Czy_dolegliwosci:tak'}),0.08771929824561403,0.8333333333333334,1.532258064516129

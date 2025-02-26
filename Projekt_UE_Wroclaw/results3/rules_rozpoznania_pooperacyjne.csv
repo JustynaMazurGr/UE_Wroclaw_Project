@@ -1,0 +1,8 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'rozpoznania_pooperacyjne:mięśniaki macicy'}),frozenset({'Czy_dolegliwosci:nie'}),0.08771929824561403,1.0,2.1923076923076925
+"frozenset({'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:mięśniaki macicy'})",frozenset({'Czy_dolegliwosci:nie'}),0.07017543859649122,1.0,2.1923076923076925
+"frozenset({'rozpoznania_pooperacyjne:endometrioza', 'rozpoznania_pooperacyjne:adenomioza'})",frozenset({'Czy_dolegliwosci:nie'}),0.07017543859649122,0.8,1.753846153846154
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:zrosty'})",frozenset({'Czy_dolegliwosci:tak'}),0.08771929824561403,0.8333333333333334,1.532258064516129
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Czy_dolegliwosci:tak'}),0.07017543859649122,0.8,1.4709677419354839
+"frozenset({'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Czy_dolegliwosci:tak'}),0.07017543859649122,0.8,1.4709677419354839
+frozenset({'rozpoznania_pooperacyjne:endometrioza jelitowa'}),frozenset({'Czy_dolegliwosci:tak'}),0.10526315789473684,0.75,1.379032258064516

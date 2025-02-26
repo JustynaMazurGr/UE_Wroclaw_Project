@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'BMI_kategoria:niedowaga'}),frozenset({'Czy_dolegliwosci:tak'}),0.07017543859649122,0.8,1.4709677419354839

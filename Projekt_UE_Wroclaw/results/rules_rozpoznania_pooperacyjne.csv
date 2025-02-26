@@ -1,0 +1,14 @@
+antecedents,consequents,support,confidence,lift
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Specific_Symptom:częstomocz'}),0.06451612903225806,1.0,10.333333333333334
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Specific_Symptom:częstomocz'}),0.06451612903225806,1.0,10.333333333333334
+"frozenset({'rozpoznania_pooperacyjne:zaawansowana endometrioza', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:endometrioza więzadła krzyżowo-macicznego'})",frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:zaparcia'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:zaawansowana endometrioza', 'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:endometrioza więzadła krzyżowo-macicznego', 'rozpoznania_pooperacyjne:zrosty'})",frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:zaparcia'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:endometrioza jelitowa', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:zaparcia'}),0.06451612903225806,1.0,3.875
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Specific_Symptom:zaparcia'}),0.0967741935483871,0.75,2.90625
+"frozenset({'rozpoznania_pooperacyjne:adenomioza', 'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)'})",frozenset({'Specific_Symptom:zaparcia'}),0.0967741935483871,0.75,2.90625
+"frozenset({'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:endometrioza jelitowa'})",frozenset({'Specific_Symptom:zaparcia'}),0.0967741935483871,0.75,2.90625
+"frozenset({'rozpoznania_pooperacyjne:głęboko naciekająca endometrioza (die)', 'rozpoznania_pooperacyjne:zrosty', 'rozpoznania_pooperacyjne:endometrioza jajnika'})",frozenset({'Specific_Symptom:zaparcia'}),0.0967741935483871,0.75,2.90625

@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Okres_fizjoterapeuta:byłam kilka razy u osteopaty/fizjoterapeuty w okresie do pół roku po operacji.'}),frozenset({'Specific_Symptom:ból pleców'}),0.06451612903225806,1.0,3.875

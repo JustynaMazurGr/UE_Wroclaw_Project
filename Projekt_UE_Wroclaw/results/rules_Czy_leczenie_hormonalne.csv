@@ -1,0 +1,2 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'Czy_leczenie_hormonalne:tak -> ciągle do dwóch lat po operacji'}),frozenset({'Specific_Symptom:zaparcia'}),0.06451612903225806,1.0,3.875

@@ -1,0 +1,5 @@
+antecedents,consequents,support,confidence,lift
+frozenset({'dodatkowe_choroby_i_zaburzenia:sibo'}),frozenset({'Czy_dolegliwosci:tak'}),0.07017543859649122,1.0,1.8387096774193548
+frozenset({'dodatkowe_choroby_i_zaburzenia:zespół jelita drażliwego'}),frozenset({'Czy_dolegliwosci:tak'}),0.07017543859649122,1.0,1.8387096774193548
+frozenset({'dodatkowe_choroby_i_zaburzenia:lęk'}),frozenset({'Czy_dolegliwosci:tak'}),0.08771929824561403,0.8333333333333334,1.532258064516129
+frozenset({'dodatkowe_choroby_i_zaburzenia:depresja'}),frozenset({'Czy_dolegliwosci:tak'}),0.12280701754385964,0.7,1.2870967741935482
